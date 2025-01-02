@@ -1,3 +1,4 @@
+# This is for webscraping and make a new Dict from website data
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
